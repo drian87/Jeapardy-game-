@@ -1,0 +1,21 @@
+/* Write your CSS Here. */
+#container {
+    /* width: 960px; */
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-width: 20em;
+}
+#form{
+    display: block;
+}
+
+#question{
+    margin:10px;
+    padding:10px;
+    border: 1px solid;
+    background-color: blanchedalmond;
+ 
+    
+}
